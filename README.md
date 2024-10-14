@@ -1,0 +1,1 @@
+This is the repository for Doencas_Cronicas_MG_PivotTable_PBI. To build both reports, I used the files available in Load_Dados_Doencas_Cronicas_MG repository (https://github.com/EijiKashiwase/Load_Dados_Doencas_Cronicas_MG). Please check the other Doencas_Cronicas_MG folders.
